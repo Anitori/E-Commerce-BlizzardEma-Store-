@@ -109,7 +109,7 @@ body {
 
 /* FILTRADO */
 .contenedor-filtro {
-    background-image: url(/img/background-blizzard.jpg);
+    background-image: url(https://d9me64que7cqs.cloudfront.net/images/common/background-generic-landscape-short.31b43a7823e13c6383e5e613b04b5b58.jpg);
     text-align: center;
     margin-bottom: 20px;
     color: white;
@@ -407,7 +407,7 @@ button {
     border-radius: 20px;
     color: white;
 
-background-image: url(/img/background-blizzard.jpg);
+background-image: url(https://d9me64que7cqs.cloudfront.net/images/common/background-generic-landscape-short.31b43a7823e13c6383e5e613b04b5b58.jpg);
 }
 @media (min-width: 768px) {
     .contenedor-precios {
@@ -435,7 +435,7 @@ a:hover {
 
 
 .footer{
-    background-image:url(/img/background-blizzard.jpg)
+    background-image:url(https://d9me64que7cqs.cloudfront.net/images/common/background-generic-landscape-short.31b43a7823e13c6383e5e613b04b5b58.jpg)
 }
 
 
